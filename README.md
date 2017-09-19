@@ -3,5 +3,5 @@
 ### Frameworks required: 
 
 
-Keras
-Tensorflow
+* Keras
+* Tensorflow
